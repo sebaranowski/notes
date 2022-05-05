@@ -20,6 +20,10 @@ https://www.twilio.com/blog/react-choose-functional-components
 * https://www.youtube.com/watch?v=Zz9pLellSQA
 * https://www.youtube.com/watch?v=7YhdqIR2Yzo
 
+### immutability
+* https://horus.dev/blog/use-react-s-usestate-and-usereducer-without-worrying-about-immutability
+* https://nick-vanderkolk.medium.com/usestate-and-pitfalls-of-immutability-91625f73255f
+
 ### hooks
 * https://dev.to/abhisheknaiidu/10-react-hooks-explained-3ino
 * https://react-hooks-cheatsheet.com/
