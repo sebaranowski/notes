@@ -12,6 +12,9 @@ https://www.geeksforgeeks.org/differences-between-functional-components-and-clas
 und
 https://www.twilio.com/blog/react-choose-functional-components
 
+### ES6
+* https://gutsytechster.wordpress.com/2020/08/22/freecodecamp-es6-arrow-function-rest-parameter-spread-operator/
+
 ### react rendering cycle
 * https://www.youtube.com/watch?v=VPtL6dU0YXc
 * https://www.youtube.com/watch?v=Zz9pLellSQA
