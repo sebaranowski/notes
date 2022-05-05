@@ -34,7 +34,8 @@ außerdem wurde nach `D3.js` Erfahrung gefragt, vielleicht https://github.com/re
 
 TypeScript? - ka
 wenn ja, vielleicht interessant:
-https://react-typescript-cheatsheet.netlify.app/docs/basic/setup
+* https://react-typescript-cheatsheet.netlify.app/docs/basic/setup
+* https://github.com/piotrwitek/react-redux-typescript-guide
 
 ### link collection
 * https://github.com/enaqx/awesome-react
