@@ -15,6 +15,7 @@ https://www.twilio.com/blog/react-choose-functional-components
 ### react rendering cycle
 * https://www.youtube.com/watch?v=VPtL6dU0YXc
 * https://www.youtube.com/watch?v=Zz9pLellSQA
+* https://www.youtube.com/watch?v=7YhdqIR2Yzo
 
 ### hooks
 * https://dev.to/abhisheknaiidu/10-react-hooks-explained-3ino
@@ -26,7 +27,7 @@ https://www.twilio.com/blog/react-choose-functional-components
 ### react-developer-tools extension
 * https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 
-thomas herklotz:
+thomas:
 >das Münchner Projekt wird Redux, Cypress und Jest haben
 
 außerdem wurde nach `D3.js` Erfahrung gefragt, vielleicht https://github.com/recharts/recharts um D3 mit react zu verbinden?
